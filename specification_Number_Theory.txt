@@ -1,0 +1,23 @@
+Save as: Number Theory Homework 7.tex
+Title: Problem Set 7, MATH 115, Number Theory, Professor Paul Vojta
+Document Author(s): Noah Ruderman
+Date: August 11, 2014
+Book Problems: 7.1.1, 7.1.4, 7.1.5, 7.3.3abd, 7.3.5, 7.4.1, 7.4.3, 7.4.4, 7.4.7, 7.5.1, 7.5.3, 7.5.4, 7.6.4, 7.6.5
+Book Title: An Introduction to The Theory of Numbers
+Book Edition: 5
+Book Author(s): Ivan Niven, Herbert S. Zuckerman, Hugh L. Montgomery
+
+7.1.1:
+7.1.4:
+7.1.5:
+7.3.3:a,b,d
+7.3.5:
+7.4.1:
+7.4.3:
+7.4.4:
+7.4.7:
+7.5.1:
+7.5.3:
+7.5.4:
+7.6.4:
+7.6.5:

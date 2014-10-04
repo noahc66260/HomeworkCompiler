@@ -1,0 +1,14 @@
+Save as: Numerical Analysis Homework 1.tex
+Title: Problem Set 1, MATH 126, Numerical Analysis, Professor James Adler 
+Document Author(s): Noah Ruderman
+Date: September 12, 2012
+Book Problems: 1.2, 2.11ab, 2.14abcd, 2.15abc, 2.17abc
+Book Title: A First Course in Numerical Methods 
+Book Edition: 1
+Book Author(s): Uri M. Ascher, Chen Greif
+
+1.2:
+2.11:a,b
+2.14:a,b,c,d
+2.15:a,b,c
+2.17:a,b,c

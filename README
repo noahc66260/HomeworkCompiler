@@ -1,0 +1,9 @@
+An automated way to make customized LaTeX documents.
+My use of this has been limited to homework in math,
+computer science, and electrical engineering courses.
+
+Compile HomeworkCompiler.cpp with g++ and run
+$ ./a.out [your specification file]
+
+Use the script file (modified for your purposes, of course),
+to move the newly-generated .tex file to where you want it.
