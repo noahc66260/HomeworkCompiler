@@ -1,0 +1,15 @@
+Save as: Real Analysis Problem Set 10B.tex
+Title: Problem Set 10B, MATH 136, Real Analysis II, Professor Loring Tu 
+Document Author(s): Noah Ruderman
+Date: April 18, 2013
+Book Problems: 10.1.1a, 10.1.2, 10.1.3, 10.1.4, 10.1.5
+Book Title: Elementary Classical Analysis
+Book Edition: 2
+Book Author(s): Jerrold E. Marsden, Michael J. Hoffman 
+
+10.1.1:a
+10.1.2:
+10.1.3:
+10.1.4:
+10.1.5:
+

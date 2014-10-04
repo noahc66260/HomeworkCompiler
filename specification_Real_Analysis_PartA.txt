@@ -1,0 +1,15 @@
+Save as: Real Analysis Problem Set 10A.tex
+Title: Problem Set 10A, MATH 136, Real Analysis II, Professor Loring Tu 
+Document Author(s): Noah Ruderman
+Date: April 18, 2013
+Book Problems: 19.2.2, 19.4.1, 19.4.2, 19.4.3, 8.2.2 (Hoffman)
+Book Title: Advanced Calculus
+Book Edition: 2
+Book Author(s): Patrick M. Fitzpatrick 
+
+19.2.2:
+19.4.1:
+19.4.2:
+19.4.3:
+8.2.2:
+

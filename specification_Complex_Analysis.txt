@@ -1,0 +1,17 @@
+Save as: Complex Analysis Assignment 4.tex
+Title: Problem Set 4, MATH 158, Complex Analysis, Professor Moon Duchin
+Document Author(s): Noah Ruderman
+Date: Feb 12, 2013
+Book Problems: 1.4.3, 1.4.4, 1.4.7, 1.4.8, 1.4.11, 1.4.14abc, 1.4.16abc, 1.4.20
+Book Title: Basic Complex Analysis
+Book Edition: 3
+Book Author(s): Jerrold E. Marsden, Michael J. Hoffman
+
+1.4.3:
+1.4.7:
+1.4.8:
+1.4.11:
+1.4.14:a,b,c
+1.4.16:a,b,c
+1.4.20:
+
